@@ -1,3 +1,4 @@
+![](http://thomas.furelaud.emi.u-bordeaux.fr/StickHero/StickHero.gif)
 # StickHero
 This game has been developed by using the pygame library. It's an easy way to develop it. 
 It is not finished yet (Game Over screen, start screen,...).
